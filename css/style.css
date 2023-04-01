@@ -1,0 +1,158 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+.notfill_img {
+  opacity: 1;
+}
+
+.notfil_text_one {
+  color: red;
+}
+
+.notfil_text_two {
+  color: red;
+}
+
+.notfil_need {
+  border: solid 2px red;
+}
+
+.notfill_button {
+  background-color: red;
+}
+
+.cont {
+  gap: 39px;
+  display: flex;
+  justify-content: center;
+}
+.cont .input_box_color {
+  margin-top: 31px;
+}
+.cont .input_box_color .top p {
+  font-size: 14px;
+  font-weight: 400;
+  color: blue;
+}
+.cont .input_box_color .top span p {
+  color: #949494;
+  margin-top: 5px;
+  font-size: 11px;
+}
+.cont .input_box_color .top {
+  margin-top: 31px;
+}
+.cont .input_box_color input {
+  padding: 12px;
+  font-size: 20px;
+  margin-top: 6px;
+  width: 277px;
+  height: 59px;
+  border-radius: 7px;
+  border: solid 1px blue;
+}
+.cont .input_box_color img {
+  opacity: 0;
+}
+.cont .input_box {
+  margin-top: 31px;
+}
+.cont .input_box .text_one {
+  font-size: 14px;
+  font-weight: 400;
+  color: #000000;
+}
+.cont .input_box .text_two {
+  margin-top: 5px;
+  font-size: 11px;
+}
+.cont .input_box .top {
+  margin-top: 31px;
+}
+.cont .input_box input {
+  padding: 12px;
+  font-size: 20px;
+  margin-top: 6px;
+  width: 277px;
+  height: 59px;
+  border-radius: 7px;
+  border: solid 1px #949494;
+}
+.cont .input_box img {
+  opacity: 0;
+}
+.cont .inputs_two .input_box_color {
+  margin-top: 31px;
+}
+.cont .inputs_two .input_box_color .top p {
+  font-size: 14px;
+  font-weight: 400;
+  color: blue;
+}
+.cont .inputs_two .input_box_color .top span p {
+  color: #949494;
+  margin-top: 5px;
+  font-size: 11px;
+}
+.cont .inputs_two .input_box_color .top {
+  margin-top: 31px;
+}
+.cont .inputs_two .input_box_color input {
+  padding: 12px;
+  font-size: 20px;
+  margin-top: 6px;
+  width: 277px;
+  height: 59px;
+  border-radius: 7px;
+  border: solid 1px blue;
+}
+.cont .inputs_two .input_box_color img {
+  opacity: 0;
+}
+.cont .inputs_two .input_box .text_one {
+  font-size: 14px;
+  font-weight: 400;
+  color: #000000;
+}
+.cont .inputs_two .input_box .text_two {
+  margin-top: 5px;
+  font-size: 11px;
+}
+.cont .inputs_two .input_box .top {
+  margin-top: 31px;
+}
+.cont .inputs_two .error {
+  border: solid 2px purple;
+}
+.cont .inputs_two .input {
+  padding: 12px;
+  font-size: 20px;
+  margin-top: 6px;
+  width: 277px;
+  height: 59px;
+  border-radius: 7px;
+  border: solid 1px #949494;
+}
+.cont .inputs_two img {
+  opacity: 0;
+}
+
+.bot .button {
+  display: flex;
+  justify-content: center;
+}
+.bot .button button {
+  margin-top: 27px;
+  width: 277px;
+  height: 59px;
+  background-color: #4200FF;
+  border: solid 0px;
+  border-radius: 7px;
+  color: white;
+  font-size: 14px;
+}/*# sourceMappingURL=style.css.map */
