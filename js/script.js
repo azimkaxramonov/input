@@ -31,13 +31,13 @@ btn.onclick = () => {
             text_one.style.color = "#EE0004"
             text_two.style.color = "#EE0004"
             text_two.innerHTML = "Please enter your email adress"
-            
+             
         }else{
-            inpt.style.border = 'solid 2px blue'
+            inpt.style.border = 'solid 2px #2ecc71'
             rasm.style.opacity = 0
-            text_one.style.color = "#595959"
-            text_two.style.color = "#595959"
-            text_two.innerHTML = 'Need to fill'  
+            text_one.style.color = "#2ecc71"
+            text_two.style.color = "#2ecc71"
+            text_two.innerHTML = 'good job'  
         }
 
         console.log(inpt);
